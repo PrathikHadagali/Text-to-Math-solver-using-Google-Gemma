@@ -16,7 +16,7 @@
 
 # Installation
 1. Clone this repository:
-   - git clone https://github.com/your-username/repo-name.git
+   - git clone [https://github.com/your-username/repo-name.git](https://github.com/PrathikHadagali/Text-to-Math-solver-using-Google-Gemma.git)
    - cd repo-name
 2. Create a virtual environment:
   - python -m venv env
